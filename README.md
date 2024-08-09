@@ -29,7 +29,7 @@ action:
   - delay:
       hours: 0
       minutes: 0
-      seconds: 
+      seconds: 0
       milliseconds: 500
 
 mode: single
