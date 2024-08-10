@@ -1,5 +1,5 @@
 blueprint:
-  name: Paralelo Virtual
+  name: Paralelo Virtual Deron
   description: Acenda/Apaga todos os switchs/lights do grupo simultaneamente
   domain: automation
   input:
